@@ -1,1 +1,1 @@
-# Faktura-n-syst-m---IT-Network
+# Fakturacni system-IT-Network
